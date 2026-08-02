@@ -36,8 +36,9 @@
       "expo-asset"
     ],
     "extra": {
+      "router": {},
       "eas": {
-        "projectId": "6f553107-a36f-4cff-9b91-f716ed4c99aa"
+        "projectId": "6f553107-a36f-4cff-91b7-f716ed4c99aa"
       }
     }
   }
