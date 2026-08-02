@@ -1,7 +1,8 @@
 {
   "expo": {
     "name": "ExportReadyAI",
-    "slug": "exportready-mobile",
+    "slug": "mobile-app-export-ready-ai",
+    "owner": "exportreadyai",
     "version": "1.0.0",
     "sdkVersion": "54.0.0",
     "orientation": "portrait",
@@ -36,7 +37,7 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "exportready-mobile-prod"
+        "projectId": "6f553107-a36f-4cff-9b91-f716ed4c99aa"
       }
     }
   }
